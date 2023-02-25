@@ -16,7 +16,7 @@ const products = [
     image: '/images/book.jpeg',
     description:
       'Set yourself free financially my dude',
-    brand: 'Apple',
+    brand: 'MacMillan',
     category: 'Books',
     price: 9.99,
     countInStock: 10,
