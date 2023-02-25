@@ -1,6 +1,9 @@
 {
   "name": "proshop",
   "version": "1.0.0",
+  "engines":{
+    "node": "18.14.2"
+  },
   "description": "MERN shopping cart app",
   "main": "server.js",
   "type": "module",
