@@ -18,11 +18,12 @@ const products = [
       'Set yourself free financially my dude',
     brand: 'MacMillan',
     category: 'Books',
-    price: 9.99,
+    price: 19.99,
     countInStock: 10,
     rating: 0,
     numReviews: 0,
   },
+
 
 ]
 
