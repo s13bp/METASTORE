@@ -1,5 +1,6 @@
 main {
   min-height: 80vh;
+  background-color: #e7e7e7;
 }
 
 h3 {
@@ -39,7 +40,7 @@ h2 {
   height: 300px;
   padding: 30px;
   margin: 40px;
-  border-radius: 50%;
+  border-radius: 5px;
   margin-left: auto;
   margin-right: auto;
 }
