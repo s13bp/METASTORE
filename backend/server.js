@@ -29,7 +29,7 @@ app.use('/api/orders', orderRoutes)
 app.use('/api/upload', uploadRoutes)
 
 app.get('/api/config/paypal', (req, res) =>
-  res.send('AYlrSzaiHQ8ASxO0CXXhz-Fq6eUgvZR6YGvNjJewe4RBSRvPbQQ-Sp9TOm2a3F_Re6baBJob4RzLeGH-')
+  res.send('AYxGiSMeKHH3shyYPmMK6bysXX1cvrbonhDsTUPD7UHZCvr8UWu51MrQzzA6HN9WSSPgZdY47ZbDZ4Nc')
 )
 
 const __dirname = path.resolve()
