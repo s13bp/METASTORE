@@ -13,7 +13,7 @@ const products = [
   },
   {
     name: 'MegaMeta Ebook',
-    image: '/images/book.jpeg',
+    image: '/images/Unknown.jpeg',
     description:
       'Set yourself free financially my dude',
     brand: 'MacMillan',
